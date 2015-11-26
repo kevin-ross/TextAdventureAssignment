@@ -15,6 +15,7 @@ if __name__ == "__main__":
         #   print either full description (first time visit) or brief description (every subsequent visit)
 
         print("What to do? \n")
+        #YOU SUCK EGGSD
         print("[menu]")
         for action in location.available_actions():
             print(action)
